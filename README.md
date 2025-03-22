@@ -5,6 +5,8 @@ Questions to answer after Exploratory Data Analysis:
 
 
 📆 How many employees were laid off each year?
+
+
 📈 What is the monthly trend of layoffs?
 
 
@@ -12,6 +14,8 @@ Questions to answer after Exploratory Data Analysis:
 
 
 💼 Which industries had the highest total layoffs?
+
+
 📊 What is the average percentage of employees laid off per industry?
 
 
@@ -19,6 +23,8 @@ Questions to answer after Exploratory Data Analysis:
 
 
 🗺 Which countries had the highest total layoffs?
+
+
 🏙 Which locations (cities) were most affected?
 
 
@@ -26,6 +32,8 @@ Questions to answer after Exploratory Data Analysis:
 
 
 🏆 Which companies had the most layoffs?
+
+
 📉 Which companies had the highest layoff percentage?
 
 
@@ -33,6 +41,8 @@ Questions to answer after Exploratory Data Analysis:
 
 
 🔍 Is there a correlation between funds raised and layoffs?
+
+
 🏦 Do companies with higher funding have lower layoff percentages?
 
 
@@ -40,4 +50,6 @@ Questions to answer after Exploratory Data Analysis:
 
 
 📌 At which funding stages do layoffs happen most frequently?
+
+
 📉 Do later-stage companies lay off more employees than early-stage companies?
