@@ -1,10 +1,7 @@
 Questions to answer after Exploratory Data Analysis:
 
 
-1️⃣ Total Layoffs Over Time 📅
-
-
-📆 How many employees were laid off each year?
+1️⃣  Layoffs Over Time 📅
 
 
 📈 What is the monthly trend of layoffs?
